@@ -22,7 +22,7 @@ https://docs.google.com/document/d/1CzF3-ZCaDFN9T3wfTJOofXSTHtOAYZugkKL27pvaAfI/
 
 
 ## Questions?
-✉️ Contact me with any questions: [Email] almonzo.rhoden@gmail.com, [Github](https://github.com/AlmonzoRhoden)
+✉️ Contact me with any questions: [Email] almonzo.rhoden@gmail.com
 
 ## GitHub
 -![class activity](https://user-images.githubusercontent.com/61447353/99162776-58830780-26cf-11eb-990c-ecca64de0e36.JPG)
