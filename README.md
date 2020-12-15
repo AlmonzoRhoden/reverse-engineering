@@ -1,4 +1,6 @@
-# Reverse-Engineering
+<h1 align = "center" > HW #02 Responsive Portfolio </h1>
+
+<h2> Descripition </h2>
 
 Reverse engineer the starter code provided and create a tutorial for the code.
 
@@ -12,7 +14,7 @@ When joining a new team, you will be expected to inspect a lot of code that you 
 Submission on BCS
 You are required to submit the following:
 
-A link to a Google Doc or video explaining the  the Developer folder.
-https://docs.google.com/document/d/1CzF3-ZCaDFN9T3wfTJOofXSTHtOAYZugkKL27pvaAfI/edit?pli=1 
+A link to a Google Doc or video explaining the  the Developer folder. <br>
+https://docs.google.com/document/d/1CzF3-ZCaDFN9T3wfTJOofXSTHtOAYZugkKL27pvaAfI/edit?pli=1 <br>
 Note: Don't forget to change the sharing settings on your Google Doc.
 
