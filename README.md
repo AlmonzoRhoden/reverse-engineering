@@ -1,4 +1,4 @@
-# reverse-engineering
+# Reverse-Engineering
 
 Reverse engineer the starter code provided and create a tutorial for the code.
 
@@ -6,23 +6,13 @@ In the Develop folder, there is starter code for a project. Begin inspecting the
 
 At the end of the tutorial, add instructions for how you could now add changes to this project.
 
-Following the common templates for user stories, we can frame this challenge as follows:
-
-AS A developer
-
-I WANT a walk-through of the codebase
-
-SO THAT I can use it as a starting point for a new project
 Business Context
 When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
 
-Acceptance Criteria
-GIVEN a Node.js application using Sequelize and Passport
-WHEN I follow the walkthrough
-THEN I understand the codebase
 Submission on BCS
 You are required to submit the following:
 
-A link to a Google Doc or video explaining the application in Develop/.
+A link to a Google Doc or video explaining the  the Developer folder.
+https://docs.google.com/document/d/1CzF3-ZCaDFN9T3wfTJOofXSTHtOAYZugkKL27pvaAfI/edit?pli=1 
 Note: Don't forget to change the sharing settings on your Google Doc.
 
