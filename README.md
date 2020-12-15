@@ -17,5 +17,16 @@ You are required to submit the following:
 A link to a Google Doc or video explaining the  the Developer folder. <br>
 https://docs.google.com/document/d/1CzF3-ZCaDFN9T3wfTJOofXSTHtOAYZugkKL27pvaAfI/edit?pli=1 <br>
 
+## Contributors
+[Almonzo Rhoden](https://github.com/AlmonzoRhoden)
+
+
+## Questions?
+✉️ Contact me with any questions: [Email](almonzo.rhoden@gmail.com), [Github](https://github.com/AlmonzoRhoden)
+
+## GitHub
+-![class activity](https://user-images.githubusercontent.com/61447353/99162776-58830780-26cf-11eb-990c-ecca64de0e36.JPG)
+- [GitHub Profile](https://github.com/AlmonzoRhoden)
+
 
 
