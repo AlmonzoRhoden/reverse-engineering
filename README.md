@@ -16,6 +16,6 @@ At the end of the tutorial, add instructions for how you could now add changes t
 Business Context
 When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
 
-A link to a Google Doc or video explaining the Developer folder. <br>
+<h2>Google Doc explaining the Developer folder code <h2> <br>
 https://docs.google.com/document/d/1CzF3-ZCaDFN9T3wfTJOofXSTHtOAYZugkKL27pvaAfI/edit?pli=1 <br>
 
