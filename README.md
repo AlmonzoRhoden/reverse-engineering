@@ -1,6 +1,6 @@
 <h1 align = "center" > Reverse Engineering </h1>
 
-<h2> Preview of documentation
+<h2> Preview of documentation </h2>
  
 ![preview](https://user-images.githubusercontent.com/61447353/103606296-077bdc80-4ee4-11eb-87a9-5faaf3c4deb8.PNG)
 
