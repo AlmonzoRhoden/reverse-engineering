@@ -1,4 +1,4 @@
-<h1 align = "center" > Reverse Engineering </h1>
+<h1 align = "center" > Reverse Engineering</h1>
 
 <h2> Preview of documentation </h2>
  
